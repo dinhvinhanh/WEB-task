@@ -1,6 +1,6 @@
 # WEB-task
 BT tuần
-This repository is belong to <your name>.
+This repository is belong to Đinh Vĩnh Anh.
 Under the collaboration of: 
 <list of your collaborators>
   Hồ Tuấn Long
